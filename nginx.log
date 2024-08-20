@@ -1,0 +1,14 @@
+163.116.184.104 - - [23/May/2023:14:21:08 +0000] "POST /data.php?fl=1&url=https://www.albertcoronado.com/2016/07/04/configurando-un-balanceador-para-liferay-con-nginxseguridad-tlsdocker/ HTTP/1.1" 200 9258 "https://www.albertcoronado.com/2016/07/04/configurando-un-balanceador-para-liferay-con-nginxseguridad-tlsdocker/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" "83.45.66.225"
+
+163.116.184.104 - - [23/May/2023:14:21:08 +0000] "GET /img/lostsys.png HTTP/1.1" 200 5635 "[https://www.albertcoronado.com/2016/07/04/configurando-un-balanceador-para-liferay-con-nginxseguridad-tlsdocker/](https://www.albertcoronado.com/2016/07/04/configurando-un-balanceador-para-liferay-con-nginxseguridad-tlsdocker/)" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" "83.45.66.225" 
+    
+163.116.184.104 - - [23/May/2023:14:21:08 +0000] "GET /wp-content/uploads/2016/07/nginx-liferay-balancer.png HTTP/1.1" 200 74619 "[https://www.albertcoronado.com/2016/07/04/configurando-un-balanceador-para-liferay-con-nginxseguridad-tlsdocker/](https://www.albertcoronado.com/2016/07/04/configurando-un-balanceador-para-liferay-con-nginxseguridad-tlsdocker/)" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" "83.45.66.225" 
+    
+163.116.184.104 - - [23/May/2023:14:21:11 +0000] "GET /robots.txt HTTP/1.1" 200 92 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" "83.45.66.225" 
+    
+107.22.135.11 - - [23/May/2023:14:21:12 +0000] "GET /2016/07/04/configurando-un-balanceador-para-liferay-con-nginxseguridad-tlsdocker HTTP/1.1" 301 408 "-" "Mozilla/5.0 (compatible; proximic; +[https://www.comscore.com/Web-Crawler](https://www.comscore.com/Web-Crawler))" "-" 
+    
+107.22.135.11 - - [23/May/2023:14:21:12 +0000] "GET /2016/07/04/configurando-un-balanceador-para-liferay-con-nginxseguridad-tlsdocker/ HTTP/1.1" 200 61431 "-" "Mozilla/5.0 (compatible; proximic; +[https://www.comscore.com/Web-Crawler](https://www.comscore.com/Web-Crawler))" "-" 
+    
+94.237.45.203 - - [23/May/2023:14:21:12 +0000] "GET /2016/07/04/configurando-un-balanceador-para-liferay-con-nginxseguridad-tlsdocker HTTP/1.1" 301 408 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" "-"
+
